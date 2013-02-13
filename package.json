@@ -1,0 +1,16 @@
+{
+  "name": "libsbmlsim",
+  "version": "0.0.1",
+  "author": "Stanley Gu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanley-gu/libsbmlsim.git"
+  },
+  "scripts": {
+    "install": "make"
+  },
+  "dependencies": {
+    "cmake": "0.0.1",
+    "libsbml": "0.0.2"
+  }
+}
