@@ -1,3 +1,3 @@
 # libsbmlsim-installer
 
-Installs 32-bit linux binaries for libsbmlsim
+Installs linux binaries for libsbmlsim
